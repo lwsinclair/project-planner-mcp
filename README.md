@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/drsnaj-project-planner-mcp-badge.png)](https://mseep.ai/app/drsnaj-project-planner-mcp)
+
 # GitHub Project Management MCP Server
 
 A comprehensive Model Context Protocol (MCP) server for GitHub project management tasks using the GitHub GraphQL API. This server enables AI assistants to interact with GitHub Projects, Issues, Pull Requests, and more through Cursor IDE.
